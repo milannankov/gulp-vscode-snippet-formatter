@@ -1,0 +1,7 @@
+"<Button",
+"    primary={false}",
+"    look=\"outline\"",
+"    disabled={true}",
+"    click={this.onClick}>",
+"    MyButton",
+"</Button>"
